@@ -1,7 +1,6 @@
-# Certificates
 ## 2023
 #### Netology
-<a href="certificate_netology_DS.pdf">Data Science: рекомендательные системы</a>
+<a href="Netology_diplom_DS.pdf">Диплом о профессиональной переподготовке "Data Science: рекомендательные системы"</a>
 
 ## 2022
 #### Stepik 
