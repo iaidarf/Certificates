@@ -1,3 +1,7 @@
+## 2025
+#### Stepik 
+<a href="stepik-certificate-138385-f3e1f84.pdf">Power BI: от новичка до уверенного бизнес-пользователя </a> 
+
 ## 2023
 #### Netology
 <a href="Netology_diplom_DS.pdf">Диплом о профессиональной переподготовке "Data Science: рекомендательные системы"</a>
