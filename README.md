@@ -1,6 +1,8 @@
 ## 2025
 #### Stepik 
 <a href="stepik-certificate-138385-f3e1f84.pdf">Power BI: от новичка до уверенного бизнес-пользователя </a> 
+#### Karpov.courses
+<a href="karpov_courses_analyst_simulator.pdf">Симулятор аналитика </a> 
 
 ## 2023
 #### Netology
